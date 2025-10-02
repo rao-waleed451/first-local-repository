@@ -1,1 +1,1 @@
-this is just for learning purpose
+now i have added the readme file from github to my local because i have created the repo locally pushed the code to remote from local and accidently created the readme in remote so to get the this from remote to local i use the command git pull origin main
